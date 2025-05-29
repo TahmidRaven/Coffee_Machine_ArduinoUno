@@ -34,10 +34,10 @@ The project files are organized as follows:
 
 ```
 ## Developers
-- **Tahmid Iqbal** (ID: 21201701)  
-- Golam Sarwar Sami (ID: 21101276) 
-- Farhan Tanvir Niloy (ID: 22301329)  
-- Abrar Fahim (ID: 21301073) 
+- [**Tahmid Iqbal**](https://github.com/TahmidRaven) (ID: 21201701)  
+- **Golam Sarwar Sami** (ID: 21101276) 
+- **Farhan Tanvir Niloy** (ID: 22301329)  
+- **Abrar Fahim** (ID: 21301073) 
 
 ## Features
 - Automated coffee brewing process
