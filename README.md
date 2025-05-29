@@ -11,9 +11,27 @@ The project aims to minimize human effort in making coffee while maintaining pre
 - Farhan Tanvir Niloy (ID: 22301329)  
 - Abrar Fahim (ID: 21301073) 
 
-## Submitted To
-- Pratick Roy Chowdhury (CSE)
-- Md. Irtiza Hossain (CSE)
+## Project Structure
+The project files are organized as follows:
+
+```
+│
+├── code_files/
+│ ├── Arduino1.ino # Code for the first Arduino (main coffee machine control)
+│ └── Arduino2.ino # Code for the second Arduino (sensor and display control)
+│
+├── pictures/ # Folder containing images related to the project
+│ ├── IMG_20250512_180700.jpg
+│ ├── IMG_20250512_180727.jpg
+│ ├── IMG_20250512_181339.jpg
+│ ├── IMG_20250512_181503.jpg
+│ └── IMG_20250512_181531.jpg
+│
+├── CoffeeMachine_Group9_Report.pdf # Final report in PDF format
+├── LICENSE # Project license file (GNU)
+└── README.md # This README file
+
+```
 
 ## Features
 - Automated coffee brewing process
@@ -72,7 +90,7 @@ The project aims to minimize human effort in making coffee while maintaining pre
 - **Office Kitchens**: Ideal for office smart kitchens, allowing employees to brew coffee without manual intervention.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
