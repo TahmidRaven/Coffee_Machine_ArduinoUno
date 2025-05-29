@@ -6,8 +6,7 @@ This project is a Smart Coffee Machine designed to automate the coffee-making pr
 The project aims to minimize human effort in making coffee while maintaining precision and consistency. The system integrates multiple components such as sensors, actuators, and displays to ensure the coffee-making process is fully automated.
 
 ## Project Video
-You can watch the demonstration of the project on YouTube:  
-[Smart Coffee Machine Project Video](https://youtube.com/shorts/YfagplvcO6o?si=1KiaXHhoE4QHvvBF)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/YfagplvcO6o?si=1KiaXHhoE4QHvvBF)
 
 
 ## Project Structure
