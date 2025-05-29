@@ -5,11 +5,10 @@ This project is a Smart Coffee Machine designed to automate the coffee-making pr
 
 The project aims to minimize human effort in making coffee while maintaining precision and consistency. The system integrates multiple components such as sensors, actuators, and displays to ensure the coffee-making process is fully automated.
 
-## Developers
-- **Tahmid Iqbal** (ID: 21201701)  
-- Golam Sarwar Sami (ID: 21101276) 
-- Farhan Tanvir Niloy (ID: 22301329)  
-- Abrar Fahim (ID: 21301073) 
+## Project Video
+You can watch the demonstration of the project on YouTube:  
+[Smart Coffee Machine Project Video](https://youtube.com/shorts/YfagplvcO6o?si=1KiaXHhoE4QHvvBF)
+
 
 ## Project Structure
 The project files are organized as follows:
@@ -32,6 +31,11 @@ The project files are organized as follows:
 └── README.md # This README file
 
 ```
+## Developers
+- **Tahmid Iqbal** (ID: 21201701)  
+- Golam Sarwar Sami (ID: 21101276) 
+- Farhan Tanvir Niloy (ID: 22301329)  
+- Abrar Fahim (ID: 21301073) 
 
 ## Features
 - Automated coffee brewing process
