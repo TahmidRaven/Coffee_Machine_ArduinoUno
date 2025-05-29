@@ -5,7 +5,7 @@ This project is a Smart Coffee Machine designed to automate the coffee-making pr
 
 The project aims to minimize human effort in making coffee while maintaining precision and consistency. The system integrates multiple components such as sensors, actuators, and displays to ensure the coffee-making process is fully automated.
 
-## Contributors / Developers
+## Developers
 - **Tahmid Iqbal** (ID: 21201701)  
 - Golam Sarwar Sami (ID: 21101276) 
 - Farhan Tanvir Niloy (ID: 22301329)  
