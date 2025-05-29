@@ -1,4 +1,4 @@
-# Smart Coffee Machine Project
+![coffeeMachine](https://github.com/user-attachments/assets/e563456b-9f14-438c-ac20-1c4eb5d51611)# Smart Coffee Machine Project
 
 ## Overview
 This project is a Smart Coffee Machine designed to automate the coffee-making process. The machine detects the presence of a mug, brews coffee, pours water, mixes ingredients, and monitors water levels and temperatures. The system is based on the Arduino Uno R3 microcontroller and integrates various sensors and communication protocols like I2C, GPIO, PWM, and OneWire.
@@ -6,6 +6,8 @@ This project is a Smart Coffee Machine designed to automate the coffee-making pr
 The project aims to minimize human effort in making coffee while maintaining precision and consistency. The system integrates multiple components such as sensors, actuators, and displays to ensure the coffee-making process is fully automated.
 
 ## Project Video
+![coffeeMachine](https://github.com/user-attachments/assets/0bbf9cf0-0ef8-48c4-a163-6427168c12f8)
+
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/YfagplvcO6o?si=1KiaXHhoE4QHvvBF)
 
 
