@@ -8,7 +8,7 @@ The project aims to minimize human effort in making coffee while maintaining pre
 ## Project Video
 ![coffeeMachine](https://github.com/user-attachments/assets/0bbf9cf0-0ef8-48c4-a163-6427168c12f8)
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=flat&logo=youtube&logoColor=white&long)](https://youtube.com/shorts/YfagplvcO6o?si=1KiaXHhoE4QHvvBF)
+[![Watch the video on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=flat&logo=youtube&logoColor=white&long)](https://youtube.com/shorts/YfagplvcO6o?si=1KiaXHhoE4QHvvBF)
 
 
 
